@@ -1,5 +1,5 @@
 ---
-title: "What's new in PHP 8"
+title: What's new in PHP 8
 layout: post
 ---
 
