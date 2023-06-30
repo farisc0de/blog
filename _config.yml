@@ -1,22 +1,22 @@
 # Setup
-title:               Faris Blog
-tagline:             'My Blog'
-description:         'A blog to explain stuff 😁'
-url:                 https://www.farisotaibi.com/blog
-baseurl:             'https://www.farisotaibi.com/'
-paginate:            5
-permalink:           pretty
+title: 'Faris Blog'
+tagline: 'My Blog'
+description: 'A blog to explain stuff 😁'
+url: 'https://www.farisotaibi.com/blog'
+baseurl: 'https://www.farisotaibi.com/'
+paginate: 5
+permalink: pretty
 
 # About/contact
 author:
-  name:              Faris AL-Otaibi
-  url:               https://linktr.ee/farisc0de
-  email:             farisksa79@gmail.com
+  name: 'Faris AL-Otaibi'
+  url: 'https://linktr.ee/farisc0de'
+  email: 'farisksa79@gmail.com'
 
 # Gems
 plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
+version: 1.1.0
 google_analytics_id: #UA-XXXX-Y
