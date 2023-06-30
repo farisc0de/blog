@@ -3,7 +3,7 @@ title:               Faris Blog
 tagline:             'My Blog'
 description:         'A blog to explain stuff 😁'
 url:                 https://www.farisotaibi.com/blog
-baseurl:             ''
+baseurl:             'https://www.farisotaibi.com/'
 paginate:            5
 permalink:           pretty
 
