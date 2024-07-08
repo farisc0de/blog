@@ -3,10 +3,6 @@ title: Mastering Productivity with GTD A Personal Journey
 layout: post
 ---
 
-### Mastering Productivity with GTD: A Personal Journey
-
----
-
 In today's fast-paced world, staying productive and organized is crucial. One methodology that has gained significant traction is Getting Things Done (GTD). In this blog post, I will share my insights into GTD, how I implement it in my workflow, and the valuable lessons I've learned along the way.
 
 ---
